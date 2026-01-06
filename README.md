@@ -125,5 +125,5 @@ ORDER BY total_sales
 4. Leverage Flooring Department Demand: Since Flooring products have high sales volume but low revenue, consider price adjustments, bundling, or premium product introductions.
 5. Optimize Discounts: Maintain discounts in the 10–15% range to maximize both sales revenue and order volume while avoiding unprofitable thresholds.
 
-## TOOLS
+### TOOLS
 SQL
